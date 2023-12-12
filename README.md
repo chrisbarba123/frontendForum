@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -48,4 +48,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # frontendForum
 frontend for the forum
->>>>>>> 9ce44c1ea1dca48d5e38028ae2d835192629ba1e
